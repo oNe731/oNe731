@@ -1,7 +1,6 @@
 # ✨ Welcome to "GimOne" GitHub
 - I am in university and studying game development.
 - I am interested in programming, 3D graphics, and 2D graphics in that order, and I am studying.
-- ...
 
 #
 ### 💬 CONTACT
