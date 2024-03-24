@@ -48,3 +48,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=oNe731&theme=react-dark&bg_color=20232a&hide_border=true&line=FFB6C1&color=FFB6C1" width=94%/>
 </a>
 
+#
+### 🚩 BAEKJOON STATE
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksk731)](https://solved.ac/gksk731/)
