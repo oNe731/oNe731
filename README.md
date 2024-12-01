@@ -15,7 +15,9 @@
   
 #
 gimone0731@gmail.com
+#
 https://hana0731.tistory.com/
+#
 https://www.youtube.com/@GimOne731
 
 #
