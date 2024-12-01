@@ -12,7 +12,11 @@
 <a href="https://www.youtube.com/@GimOne731">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <br>
+  
+#
 gimone0731@gmail.com
+https://hana0731.tistory.com/
+https://www.youtube.com/@GimOne731
 
 #
 ### 📚 STACKS/ STUDYING
