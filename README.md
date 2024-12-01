@@ -7,12 +7,12 @@
 <p align="left">
 <a href="mailto:gimone0731@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-gimone0731@gmail.com
 <a href="https://hana0731.tistory.com/">
   <img src="https://img.shields.io/badge/-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
 <a href="https://www.youtube.com/@GimOne731">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <br>
+gimone0731@gmail.com
 
 #
 ### 📚 STACKS/ STUDYING
