@@ -14,13 +14,13 @@
 <br>
   
 
-gimone0731@gmail.com
+- EMAIL : gimone0731@gmail.com
 
 
-https://hana0731.tistory.com/
+- BLOG : https://hana0731.tistory.com/
 
 
-https://www.youtube.com/@GimOne731
+- YOUTUBE : https://www.youtube.com/@GimOne731
 
 #
 ### 📚 STACKS/ STUDYING
